@@ -1,0 +1,7 @@
+diffusers
+transformers
+accelerate
+gradio
+einops
+beautifulsoup4
+peft

@@ -1,0 +1,23 @@
+Red
+Green
+Blue
+Yellow
+Orange
+Purple
+Black
+White
+Gray
+Brown
+Pink
+Turquoise
+Teal
+Maroon
+Gold
+Silver
+Bronze
+Copper
+Magenta
+Indigo
+Cyan
+Fuchsia
+yellow (orange:0.8)

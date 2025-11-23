@@ -5,6 +5,20 @@ library_name: diffusers
 ---
 # Nitro-E Webui
 
+This is a web-based user interface for the [Nitro-E text-to-image diffusion model](https://huggingface.co/amd/Nitro-E).
+
+## Webui Setup
+
+1.  **Create Virtual Environment**: Run the `venv_create.bat` script to automatically create a Python virtual environment. It will also offer to install the required packages.
+2.  **Install Dependencies**: If you didn't install the packages in the previous step, activate the environment (`venv\Scripts\activate.bat`) and run:
+    ```
+    pip install -r requirements.txt
+    ```
+
+---
+
+The content below is the original `README.md` from the Nitro-E model.
+
 
 
 # AMD Nitro-E
